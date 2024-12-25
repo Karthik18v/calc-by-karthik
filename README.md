@@ -91,4 +91,7 @@ Contributions are welcome! Follow these steps to contribute:
 
 ## **License** 📄
 
-This project is licensed under the [MIT License](./LICENSE). Feel free to use and modify the code as per the license terms.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
